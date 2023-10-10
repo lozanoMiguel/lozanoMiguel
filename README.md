@@ -1,13 +1,12 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Miguel</h1>
-<h3 align="center">A junior frontend programmer. I want to work and keep learning</h3>
+<h3 align="center">A junior fullstack developer. I want to work and keep learning</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/lozanomiguel92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lozanomiguel92" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/miguel lozano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miguel lozano" height="30" width="40" /></a>
-<a href="https://instagram.com/_lozanomiguel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_lozanomiguel" height="30" width="40" /></a>
+<a href="https://lozanomiguel.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_lozanomiguel" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
