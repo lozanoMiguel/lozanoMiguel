@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Miguel</h1>
-<h3 align="center">A junior frontend developer. I want to work and keep learning</h3>
+<h3 align="center">A junior backend developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
